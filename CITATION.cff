@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MATLAB, Spyder, Multisim'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Edgar
+    family-names: Rivas
+    email: l21212748@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+  - given-names: Miroslava
+    family-names: Jacobo
+    email: l21212669@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+repository-code: 'https://github.com/IvansilloRivas/MSF-Practica-1'
+keywords:
+  - Controlador PID
+  - Sistema de control
+  - Funcion de transferencia
+  - Circuito RLC
+license: BSD-2-Clause
+date-released: '2025-03-07'
